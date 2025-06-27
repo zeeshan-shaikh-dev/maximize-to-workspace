@@ -1,0 +1,7 @@
+{
+  "uuid": "maximize-to-workspace-gnome@zeeshan.local",
+  "name": "Maximize to New Workspace",
+  "description": "Maximized apps get their own workspace. Closing/unmaximizing cleans up and returns focus.",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48"]
+}
